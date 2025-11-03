@@ -1,0 +1,28 @@
+body {
+			background-color: powderblue;
+			background-repeat: no-repeat;
+			font-size: 1em;
+			border-width: 20px;
+			padding: 10px;
+		}
+img {
+	width: max(100, 1100);
+	height: 950px;
+	background-size: auto;
+}
+header {
+	background-color: whitesmoke;
+}
+nav {
+	background-color: whitesmoke;
+	text-align: center;
+}
+footer {
+	margin: auto;
+	font-size: 40px;
+}
+h1 {
+	text-align: center;
+	padding: 10px;
+	font-size: 3em;
+}
